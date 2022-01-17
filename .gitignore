@@ -1,1 +1,7 @@
 .idea
+*.test
+*.out
+coverage.html
+coverage.txt
+.DS_Store
+**/vendor
